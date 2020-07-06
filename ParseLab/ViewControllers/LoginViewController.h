@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  ViewController.h
 //  ParseLab
 //
 //  Created by Ana Cismaru on 7/6/20.
@@ -8,9 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+@interface LoginViewController : UIViewController
 
-@property (strong, nonatomic) UIWindow *window;
 
 @end
 
